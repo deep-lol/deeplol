@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lolrecommender-frontend/static/css/main.4faa341a.chunk.css",
-    "main.js": "/lolrecommender-frontend/static/js/main.7e96e345.chunk.js",
-    "main.js.map": "/lolrecommender-frontend/static/js/main.7e96e345.chunk.js.map",
+    "main.js": "/lolrecommender-frontend/static/js/main.b8cf7c9b.chunk.js",
+    "main.js.map": "/lolrecommender-frontend/static/js/main.b8cf7c9b.chunk.js.map",
     "runtime-main.js": "/lolrecommender-frontend/static/js/runtime-main.e0cc0fd4.js",
     "runtime-main.js.map": "/lolrecommender-frontend/static/js/runtime-main.e0cc0fd4.js.map",
     "static/js/2.8f612c6e.chunk.js": "/lolrecommender-frontend/static/js/2.8f612c6e.chunk.js",
     "static/js/2.8f612c6e.chunk.js.map": "/lolrecommender-frontend/static/js/2.8f612c6e.chunk.js.map",
     "index.html": "/lolrecommender-frontend/index.html",
-    "precache-manifest.57e05df1dcb737c256859a9d5f55547a.js": "/lolrecommender-frontend/precache-manifest.57e05df1dcb737c256859a9d5f55547a.js",
+    "precache-manifest.ca561b48ddbe6432bd7b86c5a9d0b1e4.js": "/lolrecommender-frontend/precache-manifest.ca561b48ddbe6432bd7b86c5a9d0b1e4.js",
     "service-worker.js": "/lolrecommender-frontend/service-worker.js",
     "static/css/main.4faa341a.chunk.css.map": "/lolrecommender-frontend/static/css/main.4faa341a.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e0cc0fd4.js",
     "static/js/2.8f612c6e.chunk.js",
     "static/css/main.4faa341a.chunk.css",
-    "static/js/main.7e96e345.chunk.js"
+    "static/js/main.b8cf7c9b.chunk.js"
   ]
 }
