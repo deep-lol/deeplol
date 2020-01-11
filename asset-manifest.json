@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/deeplol/static/css/main.4faa341a.chunk.css",
+    "main.js": "/deeplol/static/js/main.a920944b.chunk.js",
+    "main.js.map": "/deeplol/static/js/main.a920944b.chunk.js.map",
+    "runtime-main.js": "/deeplol/static/js/runtime-main.5355479f.js",
+    "runtime-main.js.map": "/deeplol/static/js/runtime-main.5355479f.js.map",
+    "static/js/2.8f612c6e.chunk.js": "/deeplol/static/js/2.8f612c6e.chunk.js",
+    "static/js/2.8f612c6e.chunk.js.map": "/deeplol/static/js/2.8f612c6e.chunk.js.map",
+    "index.html": "/deeplol/index.html",
+    "precache-manifest.a66432e5293feda37b50b83883ebe0f9.js": "/deeplol/precache-manifest.a66432e5293feda37b50b83883ebe0f9.js",
+    "service-worker.js": "/deeplol/service-worker.js",
+    "static/css/main.4faa341a.chunk.css.map": "/deeplol/static/css/main.4faa341a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5355479f.js",
+    "static/js/2.8f612c6e.chunk.js",
+    "static/css/main.4faa341a.chunk.css",
+    "static/js/main.a920944b.chunk.js"
+  ]
+}
